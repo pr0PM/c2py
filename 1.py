@@ -27,4 +27,5 @@ print('Percent : '+str(round(p,5))+' %')
 # 1 Check the input to be under the max marks limit
 # 2 Take the subjects to be input
 # 3 Verify the sum and percentage to be under the maximum limit
-# 4 ......
+# 4 Check for the input max marks not to be zero so that we can keep a check on the ZeroDivisionError
+# 5 
