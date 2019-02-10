@@ -7,4 +7,4 @@ My aim behind this is to solve all the problems specified to be solved in the
 </br>
 <h6>C</6> programming language at beginner level would be solved here as specified in the "gOAl.png" included in the repository files.
 </br> 
-The goal is to finish it within a month from the initial commit.
+The goal is to finish it as soon as possible.
